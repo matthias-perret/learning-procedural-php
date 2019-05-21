@@ -1,0 +1,13 @@
+
+body{
+	background-color: grey;
+}
+
+nav{
+	border-bottom: 1px solid black;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 15px;
+}
